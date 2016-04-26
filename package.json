@@ -1,0 +1,16 @@
+{
+  "name": "cricket-ani",
+  "version": "0.0.1",
+  "description": "fun club with fantastic members",
+  "main": "index.js",
+  "author": "goDannY",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lodash": "^4.11.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.13",
+    "node-restful": "^0.2.5"
+  }
+}
